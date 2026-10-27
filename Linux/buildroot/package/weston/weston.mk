@@ -5,8 +5,8 @@
 ################################################################################
 
 WESTON_VERSION = rel_imx_5.4.70_2.3.0
-#WESTON_SITE = git://source.codeaurora.org/external/imx/weston-imx.git
-WESTON_SITE = https://source.codeaurora.org/external/imx/weston-imx
+#WESTON_SITE = https://github.com/nxp-imx/weston-imx.git
+WESTON_SITE = https://github.com/nxp-imx/weston-imx
 WESTON_SITE_METHOD = git
 #WESTON_SOURCE = weston-$(WESTON_VERSION).tar.gz
 #WESTON_LICENSE = MIT

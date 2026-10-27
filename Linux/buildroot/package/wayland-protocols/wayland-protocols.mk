@@ -6,7 +6,7 @@
 
 WAYLAND_PROTOCOLS_VERSION = rel_imx_5.4.70_2.3.0
 WAYLAND_PROTOCOLS_VERSION = 9cacf108d0ee5863c7a656da5d2271bc2396e43d
-WAYLAND_PROTOCOLS_SITE = https://source.codeaurora.org/external/imx/wayland-protocols-imx
+WAYLAND_PROTOCOLS_SITE = https://github.com/nxp-imx/wayland-protocols-imx
 WAYLAND_PROTOCOLS_SITE_METHOD = git
 WAYLAND_PROTOCOLS_LICENSE = MIT
 WAYLAND_PROTOCOLS_LICENSE_FILES = COPYING

@@ -5,7 +5,7 @@
 ################################################################################
 
 LIBDRM_VERSION = 40ea53973b99b7df07f472318918a8c2b310e4a7
-LIBDRM_SITE = https://source.codeaurora.org/external/imx/libdrm-imx
+LIBDRM_SITE = https://github.com/nxp-imx/libdrm-imx
 LIBDRM_SITE_METHOD = git
 LIBDRM_INSTALL_STAGING = YES
 
